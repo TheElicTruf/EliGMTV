@@ -372,10 +372,10 @@ https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/334284931
 #EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/2198410339/index.m3u8
 
-#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
-#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (2)
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (2)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL
@@ -628,10 +628,10 @@ https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/241814844
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/2802329064/index.m3u8
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8
+https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/3938501125/index.m3u8
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
-https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/3938501125/index.m3u8
+https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
