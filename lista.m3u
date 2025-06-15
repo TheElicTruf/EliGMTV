@@ -1402,10 +1402,10 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="fiawec24hoursoflemanscareer" tvg-name="FIA WEC | 24 Hours of Le Mans Career (03:00)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",FIA WEC | 24 Hours of Le Mans Career (03:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixgrandprixsunday" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday (19:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday (19:00)
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixgrandprixsunday" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday (19:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday (19:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixrace" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Race (20:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Race (20:00)
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixrace" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Race (20:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Race (20:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
@@ -1423,7 +1423,7 @@ https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofswitzerlandstage4womenkssnacht1272km" tvg-name="Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)" tvg-logo="http://grandtourofswitzerland.jp/img/logo_bgred.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)
+#EXTINF:-1 tvg-id="tourofswitzerlandstage4womenkssnacht1272km" tvg-name="Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)" tvg-logo="https://grandtourofswitzerland.jp/img/logo_bgwhite.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-id="criteriumdudauphinestage8menvaldarcvalcenis1333km" tvg-name="Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km) (15:10)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km) (15:10)
@@ -1432,7 +1432,7 @@ https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/
 #EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="worldcupmenbernboulderingfinal" tvg-name="World Cup | Men Bern | Bouldering | Final (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240626/original/pngtree-world-cup-2024-trophy-on-stadium-png-image_15417181.png" group-title="Eventi Live",World Cup | Men Bern | Bouldering | Final (17:00)
+#EXTINF:-1 tvg-id="worldcupmenbernboulderingfinal" tvg-name="World Cup | Men Bern | Bouldering | Final (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221026/original/pngtree-qatar-world-cup-germany-icon-png-image_8724047.png" group-title="Eventi Live",World Cup | Men Bern | Bouldering | Final (17:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 
