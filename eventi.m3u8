@@ -5,9 +5,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="fifaclubworldcupalainvsjuventus" tvg-name="FIFA Club World Cup : Al Ain vs Juventus (03:00)" tvg-logo="https://raw.githubusercontent.com/TheElicTruf/EliGMTV/main/logos/Al Ain_vs_Juventus.png" group-title="Eventi Live",FIFA Club World Cup : Al Ain vs Juventus (03:00)
-https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
 #EXTINF:-1 tvg-id="fifaclubworldcupintermiamivsporto" tvg-name="FIFA Club World Cup : Inter Miami vs Porto (21:00)" tvg-logo="https://raw.githubusercontent.com/TheElicTruf/EliGMTV/main/logos/Inter Miami_vs_Porto.png" group-title="Eventi Live",FIFA Club World Cup : Inter Miami vs Porto (21:00)
 https://theelian-eliogmpm.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
